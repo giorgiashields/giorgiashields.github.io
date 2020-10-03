@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My WeBsItE
+title: My DH Blog
 
 # Your name to show in the footer
 author: Giorgia L. Shields
@@ -15,16 +15,19 @@ author: Giorgia L. Shields
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Links:
+    - My Student Profile at NEU Sociology: "https://cssh.northeastern.edu/student/giorgia-shields/"
+    - We Hunted the Mammoth, a website tracking misogyny online: "http://wehuntedthemammoth.com"
+    - Hate Speech Data: "http://hatespeechdata.com"
+    - ADL Resource on White Supremacist Extremism: "https://www.adl.org/education/resources/glossary-terms/defining-extremism-white-supremacy"
+    - SPLC Hatewatch Blog: "https://www.splcenter.org/hatewatch"
+
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/thumb.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -41,7 +44,7 @@ round-avatar: true
 social-network-links:
   email: "shields.g@northeastern.edu"
   github: giorgiashields
-  twitter: nopenopenope
+  twitter: giorgiashields
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -62,15 +65,15 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This is a website
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -93,21 +96,21 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+# navbar-col: "#80C3A0"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+navbar-border-col: "#6DA688"
+page-col: "#C0DFCF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#80C3A0"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/monsteras.jpeg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
