@@ -4,6 +4,7 @@ title: About me
 subtitle: Who I Am
 ---
 
+
 My name is Giorgia Shields, and I am a Ph.D. student studying Sociology at Northeastern University in Boston, MA. 
 
 ### Biography
