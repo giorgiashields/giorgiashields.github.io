@@ -15,9 +15,12 @@ author: Giorgia L. Shields
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Links:
+    - My Student Profile at NEU Sociology: "https://cssh.northeastern.edu/student/giorgia-shields/"
+    - We Hunted the Mammoth, a website tracking misogyny online: "http://wehuntedthemammoth.com"
+    - Hate Speech Data: "http://hatespeechdata.com"
+    - ADL Resource on White Supremacist Extremism: "https://www.adl.org/education/resources/glossary-terms/defining-extremism-white-supremacy"
+    - SPLC Hatewatch Blog: "https://www.splcenter.org/hatewatch"
 
 
 # --- Logo --- #
