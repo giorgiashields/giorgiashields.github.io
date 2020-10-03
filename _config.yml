@@ -34,7 +34,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/flower.jpeg
 
 
 # --- Footer social media links --- #
@@ -97,7 +97,7 @@ feed_show_tags: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#80C3A0"
-navbar-text-col: "#404040"
+navbar-text-col: "#89C9BB"
 navbar-border-col: "#6DA688"
 page-col: "#97B6A6"
 text-col: "#2F5C5F"
