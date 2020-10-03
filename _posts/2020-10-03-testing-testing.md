@@ -3,7 +3,7 @@ layout: post
 title: Testing, Testing
 subtitle: 
 cover-img: /assets/img/sexsurrender.jpeg
-thumbnail-img: /assets/img/flower.jpeg
+thumbnail-img: /assets/img/straighttalk.jpeg
 share-img: /assets/img/sexsurrender.jpeg
 tags: [books, test]
 ---
